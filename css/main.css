@@ -49,16 +49,15 @@ a:hover {
 }
 
 @media only screen and (min-width: 25em) {
+
   .nav {
     display: inline-block;
   }
+}
 
 @media only screen and (min-width: 38em) {
+
   .masthead {
     text-align: left;
   }
-
-
-}
-
 }
